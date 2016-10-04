@@ -1,15 +1,15 @@
 //
-//  ViewController.h
+//  ToDoItem.m
 //  InDueTime
 //
 //  Created by Komari Herring on 8/30/16.
 //  Copyright © 2016 The Iron Yard. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ToDoItem.h"
 
-@interface ViewController : UIViewController
+@implementation ToDoItem
+
 
 
 @end
-
